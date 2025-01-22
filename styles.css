@@ -10,11 +10,7 @@ html {
   
   main {
     max-width: 50rem;
-<<<<<<< HEAD
     margin: 10rem auto;
-=======
-    margin: 5rem auto;
->>>>>>> e7e11e92367ea2e67b342000da2e2b9e8ff9622c
     padding: 3rem 1.6rem 6rem 1.6rem;
     background: linear-gradient(30deg, #ffffff, #06c6a0);
     border-radius: 4rem;
